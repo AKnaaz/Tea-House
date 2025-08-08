@@ -7,9 +7,9 @@ Tea-House is a simple frontend project showcasing a responsive, tea-themed landi
 - HTML  
 - Tailwind CSS (configured via `tailwind.config.js`)
 
-- <br/>
+<br/>
 
-- ## 🌐 Live Site
+## 🌐 Live Site
 
 🔗 [https://aknaaz.github.io/Tea-House/](https://aknaaz.github.io/Tea-House/)
 
